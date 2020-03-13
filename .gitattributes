@@ -1,3 +1,5 @@
+*.h linguist-detectable=false
 *.d linguist-detectable=false
 *.swift linguist-detectable=false
 *.java linguist-detectable=false
+*.html linguist-detectable=false
