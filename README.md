@@ -1,16 +1,9 @@
-# sg_traffic_images
+# SG Live Traffic Images Flutter App
 
-A new Flutter project.
+This is an app made with Flutter. This app is currently live on both IOS App Store and Android Play Store
 
-## Getting Started
+[IOS App Store Link Here](https://apps.apple.com/sg/app/sg-live-traffic-cameras/id1496982684)
 
-This project is a starting point for a Flutter application.
+[Android Play Store Link Here](https://play.google.com/store/apps/details?id=com.sweesen.sg_traffic_images)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/lGy0dE0UPCA/0.jpg)](https://www.youtube.com/watch?v=lGy0dE0UPCA)
